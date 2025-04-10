@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base:"/hem_1"
+  base:"/hem_1/"
 })
