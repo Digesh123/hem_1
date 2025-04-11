@@ -1,1 +1,1 @@
-export const BASE_URL = '/hamgrp'
+export const BASE_URL = '/hem_1'
