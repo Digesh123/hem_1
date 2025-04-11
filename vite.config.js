@@ -4,9 +4,9 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base:'/hamgrp/',
   plugins: [
     react(),
     tailwindcss(),
   ],
-  base:"/hem_1/"
 })
