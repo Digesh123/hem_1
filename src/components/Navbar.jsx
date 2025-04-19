@@ -31,7 +31,7 @@ const Navbar = ({ setActivePage, activePage }) => {
     { title: 'About Us', value: 'about' },
     {
       title: 'Services', value: 'service', sub: {
-        title: 'Download Profile', href: 'https://www.footforth.org/dummy.pdf'
+        title: 'Download Profile', href: 'https://www.hemgroups.in/dummy.pdf'
       }
     },
     { title: 'Our Team', value: 'teams' },
