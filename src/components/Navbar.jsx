@@ -31,7 +31,7 @@ const Navbar = ({ setActivePage, activePage }) => {
     { title: 'About Us', value: 'about' },
     {
       title: 'Services', value: 'service', sub: {
-        title: 'Download Profile', href: 'https://digesh123.github.io/hem_clone/dummy.pdf'
+        title: 'Download Profile', href: 'https://www.footforth.org/dummy.pdf'
       }
     },
     { title: 'Our Team', value: 'teams' },
